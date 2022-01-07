@@ -1,0 +1,38 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 250px;
+  width: 350px;
+}
+/* Thick  */
+hr {
+  border-top: 6px solid rgb(0, 0, 0);
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.design1 {
+  width: 135px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffffff;
+  cursor: pointer;
+  margin: 20px;
+  height: 60px;
+  text-align: center;
+  border: none;
+  background-size: 250% 150%;
+  border-radius: 50px;
+  background-image: linear-gradient(
+    to right,
+    #075272,
+    #2f49bf,
+    #58e5a1,
+    #20da7d
+  );
+  box-shadow: 0 4px 15px 0 rgb(40 233 226 / 75%);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
