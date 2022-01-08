@@ -9,11 +9,14 @@ img {
 hr {
   border-top: 6px solid rgb(0, 0, 0);
 }
-
 a {
   color: #fff;
   text-decoration: none;
 }
+.Osmania_University {
+  color: black
+}
+  
 .design1 {
   width: 135px;
   font-size: 16px;
