@@ -28,12 +28,12 @@ a {
   border-radius: 50px;
   background-image: linear-gradient(
     to right,
-    #075272,
-    #2f49bf,
-    #58e5a1,
-    #20da7d
+    #000,
+    #000,
+    #000,
+    #000
   );
-  box-shadow: 0 4px 15px 0 rgb(40 233 226 / 75%);
+  box-shadow: 0 4px 15px 0 rgba(29, 31, 30, 0.75);
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .button1 {
