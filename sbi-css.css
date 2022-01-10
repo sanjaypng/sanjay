@@ -53,7 +53,7 @@ img {
   letter-spacing: "0px";
   border: 1px solid #595959;
 }
-.mani {
+.main-1 {
   width: "558";
   border: "0px";
   text-align: "center";
@@ -61,7 +61,7 @@ img {
   padding-top: "0px";
 }
 
-.mobile-text {
+.main-2 {
   width: 900px;
   height: 100px;
   padding: 0 30px 20px 30px;
@@ -71,7 +71,7 @@ img {
   line-height: 20px;
   text-align: justify;
 }
-.mobile-app {
+.main-3 {
   border: "0";
   border-spacing: "0";
   width: "450px";
@@ -81,7 +81,7 @@ img {
   border-right: solid 1px #bbbbbb;
 }
 
-.mobiletext {
+.main-4 {
   width: 750px;
   height: 350px;
   text-align: center;
@@ -94,7 +94,7 @@ img {
   border-left: solid 1px #bbbbbb;
   border-top: solid 1px #bbbbbb;
 }
-.moblietext2 {
+.main-5 {
   text-align: justify;
   padding: 18px;
   font: 10px Arial, Helvetica, sans-serif;
