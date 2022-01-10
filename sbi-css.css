@@ -80,7 +80,8 @@ img {
   border-bottom: solid 1px #bbbbbb;
   border-right: solid 1px #bbbbbb;
 }
-
+.mobiletext tr td
+{  border:solid 1px #ccc }
 .mobiletext {
   width: 750px;
   height: 350px;
