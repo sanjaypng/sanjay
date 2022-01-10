@@ -34,8 +34,7 @@ img {
   width: "600px";
   border: "0px";
   box-align: "center";
-  padding-right: "0px";
-  padding-top: "0px";
+  padding: 0% 30px 20px 30px;
   background-color: "#fffff";
 }
 img {
@@ -89,7 +88,6 @@ img {
   text-align: center;
   font: 14px Arial, Hevetica, sans-serif;
   color: black;
-  border: 1px;
   padding: 0 30px 20px 30px;
   border-bottom: solid 1px #bbbbbb;
   border-right: solid 1px #bbbbbb;
